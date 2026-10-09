@@ -10,10 +10,12 @@
   5. **Thức** - MSV: B2611284 - GitHub: `thucb2611284`
 
 ## 2. Danh sách sản phẩm thực hành
-- `infographic.png`: Infographic về Lợi ích của công nghệ số trong học tập (Nhiệm vụ 2.1)
+- `nhiemvu1_1.pdf`: Báo cáo tài liệu văn bản số (Nhiệm vụ 1.1)[cite: 9]
+- `infographic.png`: Infographic về Lợi ích của công nghệ số trong học tập (Nhiệm vụ 2.1)[cite: 8]
 
 ## 3. Trích dẫn nguồn & AI
-- Infographic được hỗ trợ thiết kế bởi **Canva AI**, hình ảnh tham khảo từ **Unsplash (CC0)**.
+- Tài liệu báo cáo Nhiệm vụ 1.1 tham khảo nội dung từ **Google Bard**, hình ảnh từ **Unsplash (CC0)**[cite: 9].
+- Infographic Nhiệm vụ 2.1 được hỗ trợ thiết kế bởi **Canva AI**, hình ảnh tham khảo từ **Unsplash (CC0)**[cite: 8].
 
 ## 4. Giấy phép bản quyền (License)
-Nội dung bài thực hành này được chia sẻ theo giấy phép **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+Nội dung bài thực hành này được chia sẻ theo giấy phép **Creative Commons Attribution 4.0 International (CC BY 4.0)**[cite: 8].
