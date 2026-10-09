@@ -16,4 +16,4 @@
 - Infographic được hỗ trợ thiết kế bởi **Canva AI**, hình ảnh tham khảo từ **Unsplash (CC0)**.
 
 ## 4. Giấy phép bản quyền (License)
-Nội dung bài thực hành này được chia sẻ theo giấy phép **Creative Commons Attribution 4.0 International (CC BY 4.0)**.S
+Nội dung bài thực hành này được chia sẻ theo giấy phép **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
